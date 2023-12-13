@@ -1,4 +1,4 @@
-파이썬으로 설계한 GRU모델 입니다.
+Python PyTorch로 설계한 GRU모델 입니다.
 
 LG Aimers 3기에 참여하였고 교육기간은 2023.07.01 ~ 2023.08.28 입니다.
 LG Aimers 3기의 수료조건은  Phase1을 이수하고 Phase2의 Baseline 모델 성능 기준 Public Score (0.5030374355) 또는 Private Score (0.4965418807) 이상을 충족하는 것입니다.
